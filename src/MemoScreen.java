@@ -15,6 +15,8 @@ public class MemoScreen {
         System.out.println("5. 종료메뉴");
         System.out.println("원하는 메뉴의 목록을 입력하시오");
         System.out.print("숫자만 입력할것_>");
+        System.out.println("테스트입니다");
+                
 
 
 
